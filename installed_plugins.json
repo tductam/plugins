@@ -6,9 +6,9 @@
         "scope": "user",
         "installPath": "C:\\Users\\Tam\\.claude\\plugins\\cache\\claude-gen-marketplace\\claude-gen\\1.0.0",
         "version": "1.0.0",
-        "installedAt": "2026-03-06T07:38:38.238Z",
-        "lastUpdated": "2026-03-06T07:38:38.238Z",
-        "gitCommitSha": "689bf9ab2959cc3c094e016ce9e5b46d813e806b"
+        "installedAt": "2026-03-06T08:51:18.245Z",
+        "lastUpdated": "2026-03-06T08:51:18.245Z",
+        "gitCommitSha": "360d8128247d84f9c2318f2e6199c055adfb2ef7"
       }
     ]
   }
