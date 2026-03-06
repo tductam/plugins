@@ -1,0 +1,10 @@
+{
+  "claude-gen-marketplace": {
+    "source": {
+      "source": "github",
+      "repo": "tductam/code-gen"
+    },
+    "installLocation": "C:\\Users\\Tam\\.claude\\plugins\\marketplaces\\claude-gen-marketplace",
+    "lastUpdated": "2026-03-06T07:38:25.123Z"
+  }
+}
